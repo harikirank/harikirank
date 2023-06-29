@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Hari Kiran </h1>
+<h4 align="center">In the process of becoming a Django backend developer.</h4>
+
 
 <!--
 **harikirank/harikirank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
