@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Hari Kiran</h1>
-<h3 align="center">In the process of becoming django-developer</h3>
+<h3 align="center">In the process of becoming a Data Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harikirank&label=Profile%20views&color=0e75b6&style=flat" alt="harikirank" /> </p>
 
 - 🌱 I’m currently learning **Django**
 
-- 👯 I’m looking to collaborate on **Open Source Django Projects**
+- 👯 I’m looking to collaborate on **Open Source Data Projects**
 
 - 🤝 I’m looking for help with **Mentorship**
 
-- 💬 Ask me about **Django, Python, Android Development**
+- 💬 Ask me about **Data Engineering, Django, Python, Android Development**
 
 - 📫 How to reach me **harikirankeerthipati@gmail.com**
 
