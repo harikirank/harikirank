@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harikirank&label=Profile%20views&color=0e75b6&style=flat" alt="harikirank" /> </p>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Data Engineering**
 
 - 👯 I’m looking to collaborate on **Open Source Data Projects**
 
