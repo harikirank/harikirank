@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Data Projects**
 
-- 🤝 I’m looking for **Mentorship**. Connect with me on linkedin @ <a href="https://www.linkedin.com/in/hari-kiran-k/" target="_blank" rel="noreferrer">Hari Kiran Keerthipati</a>
+- 🤝 I’m looking for **People like YOU**. Connect with me on linkedin @ <a href="https://www.linkedin.com/in/hari-kiran-k/" target="_blank" rel="noreferrer">Hari Kiran Keerthipati</a>
 
 - 💬 Ask me about **Amazon Web Services, Data Engineering, Django, Python, Android Development and more. If you just want to ask something fun, I am on Linkedin.**
 
