@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harikirank&label=Profile%20views&color=0e75b6&style=flat" alt="harikirank" /> </p>
 
-- 🌱 I’m currently learning **Data Engineering**
+- 🌱 I’m currently doing **Data Engineering**
 
-- 👯 I’m looking to collaborate on **Open Source Data Projects**
+- 👯 I’m looking to collaborate **with like minded people**
 
-- 🤝 I’m looking for **People like YOU**. Connect with me on linkedin @ <a href="https://www.linkedin.com/in/hari-kiran-k/" target="_blank" rel="noreferrer">Hari Kiran Keerthipati</a>
+- 🤝 I’m looking for **People like YOU**. Let's connect on linkedin @ <a href="https://www.linkedin.com/in/hari-kiran-k/" target="_blank" rel="noreferrer">Hari Kiran Keerthipati</a>
 
-- 💬 Ask me about **Amazon Web Services, Data Engineering, Django, Python, Android Development and more. If you just want to ask something fun, I am on Linkedin.**
+- 💬 Ask me anything about **Data Engineering, AWS, Snowflake, DBT, Python, SQL**
 
 - 📫 How to reach me **<a href="https://www.linkedin.com/in/hari-kiran-k/" target="_blank" rel="noreferrer">Hari Kiran Keerthipati</a>**
 
